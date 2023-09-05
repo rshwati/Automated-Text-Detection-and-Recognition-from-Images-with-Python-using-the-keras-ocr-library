@@ -23,8 +23,7 @@ The code serves the following functions within the project:
     - The plot is closed to release resources, ensuring efficient processing of subsequent images.
 
 Examples of Images detected:
-![image](https://github.com/rshwati/Automated-Text-Detection-and-Recognition-from-Images-with-Python-using-the-keras-ocr-library/assets/136934368/0f8cac7c-bd83-4530-912e-6a00f575369b)
-<img width="599" alt="image" src="https://github.com/rshwati/Automated-Text-Detection-and-Recognition-from-Images-with-Python-using-the-keras-ocr-library/assets/136934368/ba9c8ab1-5916-4080-8a00-5c95566963ff">
 
 ![image](https://github.com/rshwati/Automated-Text-Detection-and-Recognition-from-Images-with-Python-using-the-keras-ocr-library/assets/136934368/a8806aa7-7b9e-4f9a-8e06-a85f5d8645df)
-
+![image](https://github.com/rshwati/Automated-Text-Detection-and-Recognition-from-Images-with-Python-using-the-keras-ocr-library/assets/136934368/0f8cac7c-bd83-4530-912e-6a00f575369b)
+<img width="599" alt="image" src="https://github.com/rshwati/Automated-Text-Detection-and-Recognition-from-Images-with-Python-using-the-keras-ocr-library/assets/136934368/ba9c8ab1-5916-4080-8a00-5c95566963ff">
